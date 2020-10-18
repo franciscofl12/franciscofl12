@@ -1,6 +1,6 @@
 # Hey, I'm Fran! 👋
 
-- 🌱 I’m currently learning Java annd Phyton.
+- 🌱 I’m currently learning Java and Phyton.
 
 - 👯 Focused in a collaboration of something cool.
 
