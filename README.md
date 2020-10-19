@@ -1,4 +1,4 @@
-# Hey, I'm Fran! 👋
+# Hey, I'm Fran! 👋 :es:
 
 - 🌱 I’m currently learning Java and Phyton.
 
