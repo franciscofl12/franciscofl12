@@ -1,6 +1,6 @@
 # Hey, I'm Fran! 👋 :es:
 
-- 🌱 I’m currently learning JavaScript and PHP.
+- 🌱 I’m currently learning JavaScript,PHP and Angular.
 
 - 👯 Focused in a collaboration of something cool.
 
