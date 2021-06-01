@@ -1,6 +1,6 @@
 # Hey, I'm Fran! 👋 :es:
 
-- 🌱 I’m currently learning Java and C#.
+- 🌱 I’m currently learning JavaScript and PHP.
 
 - 👯 Focused in a collaboration of something cool.
 
