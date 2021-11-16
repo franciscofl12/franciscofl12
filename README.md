@@ -10,7 +10,7 @@
 
 - ⚡ Fun fact: I'm actually making things for a game that I used to play 10 years ago.
 
-- ⛓ Personal Website: [franciscofl.dev](https://www.franciscofl.dev/)
+- ⛓  Personal Website: [franciscofl.dev](https://www.franciscofl.dev/)
 
 -------
 
