@@ -2,7 +2,7 @@
 
 -------
 
-- 🌱 I’m currently learning JavaScript,PHP and Angular.
+- 🌱 I’m currently learning Laravel and Angular.
 
 - 👯 Focused in a collaboration of something cool.
 
