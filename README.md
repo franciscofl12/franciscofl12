@@ -31,9 +31,9 @@
 <!--START_SECTION:waka-->
 
 ```text
-HTML             1 hr 30 mins    ████████████░░░░░░░░░░░░░   47.36 %
-Blade Template   1 hr 6 mins     ████████▓░░░░░░░░░░░░░░░░   34.92 %
-PHP              33 mins         ████▒░░░░░░░░░░░░░░░░░░░░   17.72 %
+HTML             1 hr 47 mins    █████████████░░░░░░░░░░░░   51.69 %
+Blade Template   1 hr 6 mins     ████████░░░░░░░░░░░░░░░░░   32.04 %
+PHP              33 mins         ████░░░░░░░░░░░░░░░░░░░░░   16.26 %
 ```
 
 <!--END_SECTION:waka-->
