@@ -4,11 +4,7 @@
 
 - 🌱 I’m currently learning Laravel and Angular.
 
-- 👯 Focused in a collaboration of something cool.
-
 - 📫 You can reach me on: franciscofl2002@gmail.com
-
-- ⚡ Fun fact: I'm actually making things for a game that I used to play 10 years ago.
 
 - ⛓  Personal Website: [franciscofl.dev](https://www.franciscofl.dev/)
 
