@@ -27,10 +27,10 @@
 <!--START_SECTION:waka-->
 
 ```text
-HTML             6 hrs 13 mins   ███████████████████████▒░   92.73 %
-PHP              15 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.87 %
-Blade Template   7 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.85 %
-Apache Config    6 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.55 %
+HTML             6 hrs 13 mins   ████████████████████░░░░░   80.52 %
+Blade Template   55 mins         ███░░░░░░░░░░░░░░░░░░░░░░   12.01 %
+PHP              28 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.13 %
+Apache Config    6 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.35 %
 ```
 
 <!--END_SECTION:waka-->
