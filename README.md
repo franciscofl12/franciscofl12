@@ -27,8 +27,9 @@
 <!--START_SECTION:waka-->
 
 ```text
-HTML    7 hrs 27 mins   █████████████████████████   99.78 %
-Other   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.20 %
+HTML             7 hrs 27 mins   ████████████████████████▒   96.76 %
+Blade Template   13 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.97 %
+Other            0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.19 %
 ```
 
 <!--END_SECTION:waka-->
