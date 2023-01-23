@@ -22,7 +22,7 @@
 📊 **Weekly development breakdown**
 
 
-<img height="180em" src="[https://github-readme-stats.vercel.app/api/top-langs/?username=franciscofl12&count_private&theme=dracula&bg_color=-45deg,282A36,3D3344&layout=compact&langs_count=6](https://github-readme-stats.vercel.app/api/wakatime?username=franciscofl12)" alt="Most languages used"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/wakatime?username=franciscofl12" alt="Most languages used"/>
 </div>
 
 -------
